@@ -1,0 +1,4 @@
+# Node modules
+node_modules/
+my-app/node_modules/
+.cache/
