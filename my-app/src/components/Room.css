@@ -1,0 +1,10 @@
+.btn-sm {
+    padding: 5px 10px; /* Adjust padding for smaller buttons */
+    font-size: 14px;   /* Adjust font size */
+  }
+  
+  .smallimg {
+    width: 100%;
+    height: auto;
+  }
+  

@@ -1,0 +1,45 @@
+.custom-navbar {
+  height: 60px; 
+  padding: 0;   
+  width: 100%; /* Ensure the navbar takes the full width */
+}
+
+.custom-navbar .navbar-brand {
+  height: 60px; 
+  line-height: 60px; /* Center the brand vertically */
+  padding-left: 20px; /* Add space from the left side (adjust as needed) */
+}
+
+.custom-navbar .navbar-nav {
+  margin-left: auto; /* Align nav items to the right */
+}
+
+.custom-navbar .navbar-nav .nav-item {
+  margin: 0 10px; /* Add space between nav items */
+  margin-top: 10px;
+
+}
+
+.custom-navbar .navbar-nav .nav-link {    
+  padding-top: 0; 
+  padding-bottom: 0; /* Adjust padding for links */
+  line-height: 60px; /* Center the link vertically */
+}
+
+.dropdown {
+  margin-top: 15px; /* Add margin to move down the username section */
+}
+
+.navbar-toggler {
+  position: absolute;
+  top: 10px; /* Adjusted position to fit within navbar */
+  right: 20px; /* Positioning the toggler to the right */
+}
+
+.dropdown-menu {
+  min-width: 150px; /* Set a minimum width for dropdown items */
+}
+
+.dropdown-item {
+  padding: 10px 20px; /* Increase padding for dropdown items */
+}
